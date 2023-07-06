@@ -16,6 +16,21 @@ Clone the repository first, and after you opened the project folder, go to termi
 npm i
 ```
 
+## Run the server
+To run the server, there are 2 ways:
+
+```
+npm start
+```
+
+or
+
+```
+npm run devStart
+```
+
+because I installed nodemon inside the project
+
 ## API Documentation
 I used swagger for the API documentation. To open the documentation, you can go to this endpoint:
 'HOST/api/docs'
